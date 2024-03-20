@@ -2,6 +2,7 @@
   "products": [
     {
       "id": "1",
+      "category": "womansClothing",
       "name": "Camiseta Mescla",
       "price": 28.8,
       "parcelamento": [3, 9.33],
@@ -12,6 +13,7 @@
     },
     {
       "id": "2",
+      "category": "womansClothing",
       "name": "Saia em couro",
       "price": 398.0,
       "parcelamento": [5, 30],
@@ -22,6 +24,7 @@
     },
     {
       "id": "3",
+      "category": "womansClothing",
       "name": "Cardigan Tigre",
       "price": 398.8,
       "parcelamento": [5, 30],
@@ -32,6 +35,7 @@
     },
     {
       "id": "4",
+      "category": "womansClothing",
       "name": "Cardigan off white",
       "price": 99.9,
       "parcelamento": [3, 33.3],
@@ -42,6 +46,7 @@
     },
     {
       "id": "5",
+      "category": "womansClothing",
       "name": "Body Leopardo",
       "price": 129.9,
       "parcelamento": [3, 43.43],
@@ -52,6 +57,7 @@
     },
     {
       "id": "6",
+      "category": "womansClothing",
       "name": "Casaco Pelos",
       "price": 398.0,
       "parcelamento": [5, 30],
@@ -62,6 +68,7 @@
     },
     {
       "id": "7",
+      "category": "womansClothing",
       "name": "Cropped Stripes",
       "price": 120.0,
       "parcelamento": [3, 40],
@@ -72,6 +79,7 @@
     },
     {
       "id": "8",
+      "category": "womansClothing",
       "name": "Camisa Transparente",
       "price": 398.0,
       "parcelamento": [5, 30],
@@ -82,6 +90,7 @@
     },
     {
       "id": "9",
+      "category": "womansClothing",
       "name": "Pochete Clutch",
       "price": 99.0,
       "parcelamento": [3, 33],
@@ -92,6 +101,7 @@
     },
     {
       "id": "10",
+      "category": "womansClothing",
       "name": "Camiseta Mescla",
       "price": 28.8,
       "parcelamento": [3, 9.33],
@@ -102,6 +112,7 @@
     },
     {
       "id": "11",
+      "category": "womansClothing",
       "name": "Saia em couro",
       "price": 398.0,
       "parcelamento": [5, 30],
@@ -111,7 +122,63 @@
       "date": "1996-12-17"
     },
     {
+      "id": "26",
+      "category": "mensClothing",
+      "name": "Camisa amarela",
+      "price": 99.0,
+      "parcelamento": [3, 33],
+      "color": "Amarelo",
+      "image": "https://i.imgur.com/6dqa63O.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "27",
+      "category": "mensClothing",
+      "name": "Camisa laranja",
+      "price": 99.0,
+      "parcelamento": [3, 33],
+      "color": "Laranja",
+      "image": "https://i.imgur.com/SAlDS4d.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "28",
+      "category": "mensClothing",
+      "name": "Camisa cinza",
+      "price": 99.0,
+      "parcelamento": [3, 33],
+      "color": "Cinza",
+      "image": "https://i.imgur.com/aoUlv71.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "29",
+      "category": "mensClothing",
+      "name": "Camisa rosa",
+      "price": 120.0,
+      "parcelamento": [3, 40],
+      "color": "Rosa",
+      "image": "https://i.imgur.com/6slUkPE.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "30",
+      "category": "mensClothing",
+      "name": "Camisa marrom",
+      "price": 99.0,
+      "parcelamento": [3, 33],
+      "color": "Marrom",
+      "image": "https://i.imgur.com/hFNyRjo.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
       "id": "12",
+      "category": "womansClothing",
       "name": "Cardigan Tigre",
       "price": 398.8,
       "parcelamento": [5, 30],
@@ -122,6 +189,7 @@
     },
     {
       "id": "13",
+      "category": "womansClothing",
       "name": "Cardigan off white",
       "price": 99.9,
       "parcelamento": [3, 33.3],
@@ -132,6 +200,7 @@
     },
     {
       "id": "14",
+      "category": "womansClothing",
       "name": "Body Leopardo",
       "price": 129.9,
       "parcelamento": [3, 43.43],
@@ -143,6 +212,7 @@
     {
       "id": "15",
       "name": "Casaco Pelos",
+      "category": "womansClothing",
       "price": 398.0,
       "parcelamento": [5, 30],
       "color": "Rosa",
@@ -152,6 +222,7 @@
     },
     {
       "id": "16",
+      "category": "womansClothing",
       "name": "Cropped Stripes",
       "price": 120.0,
       "parcelamento": [3, 40],
@@ -162,6 +233,7 @@
     },
     {
       "id": "17",
+      "category": "womansClothing",
       "name": "Camisa Transparente",
       "price": 398.0,
       "parcelamento": [5, 30],
@@ -172,12 +244,101 @@
     },
     {
       "id": "18",
+      "category": "womansClothing",
       "name": "Pochete Clutch",
       "price": 99.0,
       "parcelamento": [3, 33],
       "color": "Branco",
       "image": "https://i.imgur.com/pjGSC12.png",
       "size": ["M"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "19",
+      "category": "mensClothing",
+      "name": "Camisa branca",
+      "price": 120.0,
+      "parcelamento": [3, 40],
+      "color": "Branco",
+      "image": "https://i.imgur.com/4bPdKIa.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "20",
+      "category": "mensClothing",
+      "name": "Camisa preta",
+      "price": 120.0,
+      "parcelamento": [3, 40],
+      "color": "Preto",
+      "image": "https://i.imgur.com/I8FWmnB.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "21",
+      "category": "mensClothing",
+      "name": "Camisa azul",
+      "price": 120.0,
+      "parcelamento": [3, 40],
+      "color": "Azul",
+      "image": "https://i.imgur.com/XtDa2vQ.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "22",
+      "category": "mensClothing",
+      "name": "Camisa amarela",
+      "price": 99.0,
+      "parcelamento": [3, 33],
+      "color": "Amarelo",
+      "image": "https://i.imgur.com/6dqa63O.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "23",
+      "category": "mensClothing",
+      "name": "Camisa laranja",
+      "price": 99.0,
+      "parcelamento": [3, 33],
+      "color": "Laranja",
+      "image": "https://i.imgur.com/SAlDS4d.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "24",
+      "category": "mensClothing",
+      "name": "Camisa cinza",
+      "price": 99.0,
+      "parcelamento": [3, 33],
+      "color": "Cinza",
+      "image": "https://i.imgur.com/aoUlv71.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "25",
+      "category": "mensClothing",
+      "name": "Camisa rosa",
+      "price": 120.0,
+      "parcelamento": [3, 40],
+      "color": "Rosa",
+      "image": "https://i.imgur.com/6slUkPE.png",
+      "size": ["M, G"],
+      "date": "2003-12-17"
+    },
+    {
+      "id": "26",
+      "category": "mensClothing",
+      "name": "Camisa marrom",
+      "price": 99.0,
+      "parcelamento": [3, 33],
+      "color": "Marrom",
+      "image": "https://i.imgur.com/hFNyRjo.png",
+      "size": ["M, G"],
       "date": "2003-12-17"
     }
   ]

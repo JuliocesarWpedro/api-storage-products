@@ -6,7 +6,7 @@
   },
   "products": [
     {
-      "id": "1",
+      "id": 1,
       "category": "womansClothing",
       "name": "Camiseta Mescla",
       "price": 50,
@@ -17,7 +17,7 @@
       "date": "1995-12-17"
     },
     {
-      "id": "2",
+      "id": 2,
       "category": "womansClothing",
       "name": "Saia em couro",
       "price": 398.0,
@@ -28,7 +28,7 @@
       "date": "1996-12-17"
     },
     {
-      "id": "3",
+      "id": 3,
       "category": "mensClothing",
       "name": "Camisa amarela",
       "price": 400,
@@ -39,7 +39,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "4",
+      "id": 4,
       "category": "womansClothing",
       "name": "Cardigan Tigre",
       "price": 120,
@@ -50,7 +50,7 @@
       "date": "1997-12-17"
     },
     {
-      "id": "5",
+      "id": 5,
       "category": "womansClothing",
       "name": "Cardigan off white",
       "price": 99.9,
@@ -61,7 +61,7 @@
       "date": "1998-12-17"
     },
     {
-      "id": "6",
+      "id": 6,
       "category": "mensClothing",
       "name": "Camisa laranja",
       "price": 400,
@@ -72,7 +72,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "7",
+      "id": 7,
       "category": "womansClothing",
       "name": "Body Leopardo",
       "price": 200,
@@ -83,7 +83,7 @@
       "date": "1999-12-17"
     },
     {
-      "id": "8",
+      "id": 8,
       "category": "womansClothing",
       "name": "Casaco Pelos",
       "price": 300,
@@ -94,7 +94,7 @@
       "date": "1999-12-16"
     },
     {
-      "id": "9",
+      "id": 9,
       "category": "womansClothing",
       "name": "Cropped Stripes",
       "price": 250,
@@ -105,7 +105,7 @@
       "date": "2000-12-17"
     },
     {
-      "id": "10",
+      "id": 10,
       "category": "womansClothing",
       "name": "Camisa Transparente",
       "price": 220,
@@ -116,7 +116,7 @@
       "date": "2000-11-17"
     },
     {
-      "id": "11",
+      "id": 11,
       "category": "mensClothing",
       "name": "Camisa cinza",
       "price": 400,
@@ -127,7 +127,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "12",
+      "id": 12,
       "category": "mensClothing",
       "name": "Camisa rosa",
       "price": 400,
@@ -138,7 +138,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "13",
+      "id": 13,
       "category": "womansClothing",
       "name": "Pochete Clutch",
       "price": 150,
@@ -149,7 +149,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "14",
+      "id": 14,
       "category": "mensClothing",
       "name": "Camisa marrom",
       "price": 400,
@@ -160,7 +160,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "15",
+      "id": 15,
       "category": "womansClothing",
       "name": "Camiseta Mescla",
       "price": 350,
@@ -171,7 +171,7 @@
       "date": "1995-12-17"
     },
     {
-      "id": "16",
+      "id": 16,
       "category": "womansClothing",
       "name": "Saia em couro",
       "price": 400,
@@ -182,7 +182,7 @@
       "date": "1996-12-17"
     },
     {
-      "id": "17",
+      "id": 17,
       "category": "mensClothing",
       "name": "Camisa branca",
       "price": 400,
@@ -193,7 +193,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "18",
+      "id": 18,
       "category": "mensClothing",
       "name": "Camisa preta",
       "price": 120,
@@ -204,7 +204,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "19",
+      "id": 19,
       "category": "mensClothing",
       "name": "Camisa azul",
       "price": 250,
@@ -215,7 +215,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "20",
+      "id": 20,
       "category": "mensClothing",
       "name": "Camisa amarela",
       "price": 400,
@@ -226,7 +226,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "21",
+      "id": 21,
       "category": "mensClothing",
       "name": "Camisa laranja",
       "price": 99,
@@ -237,7 +237,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "22",
+      "id": 22,
       "category": "mensClothing",
       "name": "Camisa cinza",
       "price": 99,
@@ -248,7 +248,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "23",
+      "id": 23,
       "category": "mensClothing",
       "name": "Camisa rosa",
       "price": 120,
@@ -259,7 +259,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "24",
+      "id": 24,
       "category": "mensClothing",
       "name": "Camisa azul",
       "price": 250,
@@ -270,7 +270,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "25",
+      "id": 25,
       "category": "womansClothing",
       "name": "Camiseta Mescla",
       "price": 350,
@@ -281,7 +281,7 @@
       "date": "1995-12-17"
     },
     {
-      "id": "26",
+      "id": 26,
       "category": "womansClothing",
       "name": "Casaco Pelos",
       "price": 300,
@@ -292,7 +292,7 @@
       "date": "1999-12-16"
     },
     {
-      "id": "27",
+      "id": 27,
       "category": "womansClothing",
       "name": "Cropped Stripes",
       "price": 250,
@@ -303,7 +303,7 @@
       "date": "2000-12-17"
     },
     {
-      "id": "28",
+      "id": 28,
       "category": "womansClothing",
       "name": "Blusa branca",
       "price": 100,
@@ -314,7 +314,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "29",
+      "id": 29,
       "category": "womansClothing",
       "name": "Blusa transparente preta",
       "price": 300,
@@ -325,7 +325,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "30",
+      "id": 30,
       "category": "womansClothing",
       "name": "Blusa branca",
       "price": 250,
@@ -336,7 +336,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "31",
+      "id": 31,
       "category": "mensClothing",
       "name": "Camisa preta",
       "price": 150,
@@ -347,7 +347,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "32",
+      "id": 32,
       "category": "mensClothing",
       "name": "Camisa azul",
       "price": 250,
@@ -358,7 +358,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "33",
+      "id": 33,
       "category": "mensClothing",
       "name": "Camisa polo",
       "price": 350,
@@ -369,7 +369,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "34",
+      "id": 34,
       "category": "mensClothing",
       "name": "Camisa branca",
       "price": 80,
@@ -380,7 +380,7 @@
       "date": "2003-12-17"
     },
     {
-      "id": "35",
+      "id": 35,
       "category": "mensClothing",
       "name": "Camiseta cinza",
       "price": 100,

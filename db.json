@@ -100,7 +100,7 @@
       "price": 250,
       "parcelamento": [3, 83.33],
       "color": "Azul",
-      "image": "https://imgur.com/1ARgBiw",
+      "image": "https://imgur.com/1ARgBiw.png",
       "size": ["36", "U"],
       "date": "2000-12-17"
     },
@@ -254,7 +254,7 @@
       "price": 120,
       "parcelamento": [3, 40],
       "color": "Rosa",
-      "image": "https://imgur.com/jyzv9Ed",
+      "image": "https://imgur.com/jyzv9Ed.png",
       "size": ["M, G"],
       "date": "2003-12-17"
     },
@@ -298,7 +298,7 @@
       "price": 250,
       "parcelamento": [3, 83.33],
       "color": "Azul",
-      "image": "https://imgur.com/1ARgBiw",
+      "image": "https://imgur.com/1ARgBiw.png",
       "size": ["36", "U"],
       "date": "2000-12-17"
     },
